@@ -166,7 +166,7 @@ Architected and engineered by:
         <b style="font-size: 16px;">Venkatesh Reddy</b>
       </a>
       <br />
-      <i style="color: #64748B;">UI/UX Developer</i>
+      <i style="color: #64748B;">Core System Architect</i>
     </td>
   </tr>
 </table>
